@@ -1,0 +1,63 @@
+﻿===========================================
+Log started at 10/6/2016 4:32:40 PM
+===========================================
+Application name: dbForge Studio Express for MySQL
+Connection string: User Id=root;Host=localhost;Port=3306
+Exported Table: adminlevel
+Exported Table: areas
+Exported Table: committeepositions
+Exported Table: committees
+Exported Table: districts
+Exported Table: districtzipcodes
+Exported Table: groups
+Exported Table: gsrbygroup
+Exported Table: locationcomments
+Exported Table: locationdetails
+Exported Table: locations
+Exported Table: locationtypes
+Exported Table: meetingchanges
+Exported Table: meetingday
+Exported Table: meetingend
+Exported Table: meetingfrequency
+Exported Table: meetinglegend
+Exported Table: meetingprofile
+Exported Table: meetings
+Exported Table: meetingstart
+Exported Table: meetingtype
+Exported Table: members
+Exported Table: menwomen
+Exported Table: openclosed
+Exported Table: orglevels
+Exported Table: roles
+Exported Table: rotations
+Exported View: committeesvw
+Exported View: meetingsview
+Exported View: mtgprofilevw
+Exported View: meetings with profile codes
+Exported View: meetingsummaryvw
+Exported data from table: adminlevel (5 rows)
+Exported data from table: areas (1 rows)
+Exported data from table: committees (11 rows)
+Exported data from table: districts (42 rows)
+Exported data from table: groups (1 rows)
+Exported data from table: gsrbygroup (1 rows)
+Exported data from table: locationcomments (1 rows)
+Exported data from table: locations (1 rows)
+Exported data from table: locationtypes (8 rows)
+Exported data from table: meetingday (7 rows)
+Exported data from table: meetingend (48 rows)
+Exported data from table: meetingfrequency (8 rows)
+Exported data from table: meetinglegend (24 rows)
+Exported data from table: meetingprofile (4 rows)
+Exported data from table: meetings (1 rows)
+Exported data from table: meetingstart (48 rows)
+Exported data from table: meetingtype (11 rows)
+Exported data from table: members (1 rows)
+Exported data from table: orglevels (7 rows)
+Exported data from table: roles (8 rows)
+
+Error count: 0
+Warning count: 0
+===========================================
+Log stopped at 10/6/2016 4:32:44 PM
+===========================================
